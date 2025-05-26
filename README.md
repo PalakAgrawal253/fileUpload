@@ -13,7 +13,6 @@ A secure Node.js backend microservice that handles file uploads with metadata, a
 - **Multer** (for file uploads)
 - **Local Queue (Custom)**
 - **bcrypt** (password hashing)
-- **Redis** (required by BullMQ)
 - **dotenv** (environment variable management)
 
 ---
